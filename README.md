@@ -20,7 +20,7 @@ Loading the same OneDrive/SharePoint document in a different tab or even a diffe
 
 - Click the "add-ins" button in the top toolbar
 
-- Upload the add-in manifest (specially hosted just for this debugging experiment): https://base64-word-editor-poc-debug.paulshorey.com/manifest.xml
+- Upload the add-in manifest (specially hosted just for this debugging experiment): https://word-editor-poc-debug.vercel.app/manifest.xml
 
 - Click the "FIRST AMERICAN" add-in button in the toolbar
 
